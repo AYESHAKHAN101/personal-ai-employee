@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "df6408683e42a997",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ffcd3944ccdc7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7911eb4f30b95560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company_Handbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Company_Handbook"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b19a645083d2dde",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68659c401b5d28b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1f6344e3cad734",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "797336395523b4c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77864f187a25a0d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9a41523b61f904a",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6b8ddd6dec08fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140b5ca3bd407255",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Company_Handbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Company_Handbook"
+            }
+          },
+          {
+            "id": "f6d702b4252e11c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Company_Handbook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Company_Handbook"
+            }
+          },
+          {
+            "id": "afa567f139dbe716",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0eb1773074672a8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "567b555cb1d70aa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Company_Handbook.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Company_Handbook"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7911eb4f30b95560",
+  "lastOpenFiles": [
+    "Logs/orchestrator_2026-03-03.tmp",
+    "Dashboard.md.tmp.366.1772568528246",
+    "Dashboard.md",
+    "Done/FILE_test_invoice_request_c33b36d1c134d19e.md",
+    "Approved/archive/APPROVAL_meeting_orion_6d7c6bbc215904f4.md",
+    "Approved/archive/APPROVAL_payment_orion_6d7c6bbc215904f4.md",
+    "Done/PLAN_FILE_bronze_test_6d7c6bbc215904f4.md",
+    "Done/FILE_bronze_test_6d7c6bbc215904f4.md",
+    "In_Progress/FILE_bronze_test_6d7c6bbc215904f4.md.tmp.366.1772568469200",
+    "Approved/APPROVAL_meeting_orion_6d7c6bbc215904f4.md.tmp.366.1772568460022",
+    "Approved/APPROVAL_payment_orion_6d7c6bbc215904f4.md.tmp.366.1772568455175",
+    "Approved/APPROVAL_meeting_orion_6d7c6bbc215904f4.md",
+    "Approved/APPROVAL_payment_orion_6d7c6bbc215904f4.md",
+    "Dashboard.md.tmp.366.1772567372465",
+    "Pending_Approval/APPROVAL_meeting_orion_6d7c6bbc215904f4.md",
+    "Pending_Approval/APPROVAL_meeting_orion_6d7c6bbc215904f4.md.tmp.366.1772567350482",
+    "Pending_Approval/APPROVAL_payment_orion_6d7c6bbc215904f4.md",
+    "Pending_Approval/APPROVAL_payment_orion_6d7c6bbc215904f4.md.tmp.366.1772567350330",
+    "Plans/PLAN_FILE_bronze_test_6d7c6bbc215904f4.md",
+    "Plans/PLAN_FILE_bronze_test_6d7c6bbc215904f4.md.tmp.366.1772567332508",
+    "In_Progress/FILE_bronze_test_6d7c6bbc215904f4.md.tmp.366.1772567313164",
+    "In_Progress/FILE_bronze_test_6d7c6bbc215904f4.md",
+    "Logs/orchestrator_2026-03-03.json",
+    "Needs_Action/FILE_bronze_test_6d7c6bbc215904f4.md",
+    "Needs_Action/test5.md",
+    "Needs_Action/FILE_test5_0022bf4ab182aca9.md",
+    "Inbox/test5.md",
+    "In_Progress/FILE_test_invoice_fb31b8d7b990a3eb.md",
+    "Briefings/WORKFLOW_TEST_REPORT_2026-03-03.md",
+    "Done/PLAN_FILE_test_ambiguous_request_eb81e9b05c0e97f4.md",
+    "Done/PLAN_FILE_test_multi_3_362856193819c054.md",
+    "Done/PLAN_FILE_test_multi_2_4ca1a83ea59cf1ed.md",
+    "Done/PLAN_FILE_test_multi_1_7815cb9ee0bb58f1.md",
+    "Done/PLAN_FILE_test_invoice_request_c33b36d1c134d19e.md",
+    "Done/FILE_test_multi_3_362856193819c054.md",
+    "Done/FILE_test_multi_1_7815cb9ee0bb58f1.md"
+  ]
+}

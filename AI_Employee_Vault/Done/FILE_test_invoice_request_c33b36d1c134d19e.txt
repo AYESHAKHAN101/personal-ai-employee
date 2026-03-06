@@ -1,0 +1,3 @@
+Request to generate invoice for client ACME Corp for March services.
+Amount: $4,500
+Due in 7 days.
